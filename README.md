@@ -178,11 +178,9 @@
 | `Ctrl + Shift + O` | Encender pantalla |
 | `Ctrl + R` | Rotar pantalla |
 | `Ctrl + N` | Expandir panel de notificaciones |
-| `Ctrl + Shift + N` | Contraer panel de notificaciones |
 | `Ctrl + B` o `Ctrl + ←` | Botón Atrás |
 | `Ctrl + H` | Botón Home |
 | `Ctrl + M` | Botón Menú |
-| `MOD + P` | Encender/Apagar |
 
 ---
 
@@ -215,6 +213,42 @@ Asegúrate de:
 
 ### ❓ ¿Puedo usar múltiples dispositivos?
 **Sí**, puedes conectar varios dispositivos y elegir cuál controlar.
+
+---
+
+## 💖 Apoya el Proyecto
+
+Si este proyecto te ha sido útil, considera apoyarme con una donación:
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/rodolfoalvarez90">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
+  <a href="https://buymeacoffee.com/rf0FXMaIKy">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>¡Cada donación ayuda a mantener el proyecto vivo y mejorarlo! ☕💙</strong>
+</p>
+
+---
+
+## 📱 Sígueme en Redes Sociales
+
+<p align="center">
+  <a href="https://www.youtube.com/@raa-tech">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://github.com/iscrodolfoalvarez">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Suscríbete a mi canal para más tutoriales y proyectos! 🎥</strong>
+</p>
 
 ---
 
@@ -255,6 +289,23 @@ Asegúrate de:
 
 ---
 
+## 🔗 Enlaces Relacionados
+
+### Proyecto Original Scrcpy
+Este proyecto está basado en el increíble trabajo de **Genymobile**:
+
+<p align="center">
+  <a href="https://github.com/Genymobile/scrcpy">
+    <img src="https://img.shields.io/badge/Scrcpy-Official_Repo-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="Scrcpy Official"/>
+  </a>
+</p>
+
+- **Repositorio oficial:** [github.com/Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+- **Documentación:** [Scrcpy Docs](https://github.com/Genymobile/scrcpy/blob/master/doc/README.md)
+- **Licencia:** GPL-3.0
+
+---
+
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la **Licencia MIT** - mira el archivo [LICENSE](LICENSE) para más detalles.
@@ -267,18 +318,23 @@ Este proyecto está licenciado bajo la **Licencia MIT** - mira el archivo [LICEN
 
 ## 🙏 Créditos y Agradecimientos
 
-- **[Genymobile](https://github.com/Genymobile)** por crear [Scrcpy](https://github.com/Genymobile/scrcpy)
-- **[Electron](https://www.electronjs.org/)** por el framework
-- **[Bootstrap](https://getbootstrap.com/)** por el diseño UI
-- Todos los usuarios que reportan bugs y sugieren mejoras
+Un agradecimiento especial a:
+
+- **[Genymobile](https://github.com/Genymobile)** por crear [Scrcpy](https://github.com/Genymobile/scrcpy), el mejor software de screen mirroring para Android
+- **[Electron](https://www.electronjs.org/)** por el framework que hace posible esta aplicación
+- **[Bootstrap](https://getbootstrap.com/)** por el hermoso diseño UI
+- Todos los usuarios que reportan bugs, sugieren mejoras y apoyan el proyecto
 
 ---
 
 ## 📧 Contacto
 
-- 🐙 **GitHub:** [@iscrodolfoalvarez](https://github.com/iscrodolfoalvarez)
-- 🎥 **YouTube:** [RodolfoAlvarez](https://youtube.com/@RodolfoAlvarez)
-- 📧 **Email:** [Tu email si quieres compartirlo]
+<p align="center">
+  <a href="https://github.com/iscrodolfoalvarez">🐙 GitHub</a> •
+  <a href="https://www.youtube.com/@raa-tech">🎥 YouTube</a> •
+  <a href="https://www.paypal.com/paypalme/rodolfoalvarez90">💳 PayPal</a> •
+  <a href="https://buymeacoffee.com/rf0FXMaIKy">☕ Buy Me a Coffee</a>
+</p>
 
 ---
 
@@ -286,7 +342,14 @@ Este proyecto está licenciado bajo la **Licencia MIT** - mira el archivo [LICEN
 
 Si este proyecto te fue útil, **¡dale una estrella!** ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=iscrodolfoalvarez/raa-mirror-x-releases&type=Date)](https://star-history.com/#iscrodolfoalvarez/raa-mirror-x-releases&Date)
+Ayuda a que más personas descubran RAA Mirror X
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/iscrodolfoalvarez/raa-mirror-x-releases?style=social" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/forks/iscrodolfoalvarez/raa-mirror-x-releases?style=social" alt="GitHub forks"/>
+</p>
 
 ---
 
